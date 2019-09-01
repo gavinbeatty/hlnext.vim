@@ -1,0 +1,3 @@
+# hlnext.vim
+
+https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/hlnext.vim
